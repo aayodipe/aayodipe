@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-aayodipe&label=MY+VIEWS)
+![](https://komarev.com/ghpvc/?username=your-github-aayodipe&label=PROFILE+VIEWS)
 <!--
 **aayodipe/aayodipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
