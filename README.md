@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-aayodipe&label=PROFILE+VIEWS)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aayodipe&theme=merko&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aayodipe&theme=merko&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/aayodipe/github-readme-stats)
+
 
 <!--
 **aayodipe/aayodipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
